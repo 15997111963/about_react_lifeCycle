@@ -1,6 +1,6 @@
 **以下`UNSAFE_`开头的周期都是官方将要废弃的周期**
 
-**保留`UNSAFE_`前缀还可以继续使用 在最新的16.9中将抛出warning 在17.0的大版本中彻底移除componentWillMount、componentWillUpdate、componentWillReceiveProps这三个生命周期 帮助理解 但不建议继续使用和学习**
+**保留`UNSAFE_`前缀还可以继续使用 在最新的16.11.0中将抛出warning 在17.0的大版本中彻底移除componentWillMount、componentWillUpdate、componentWillReceiveProps这三个生命周期 帮助理解 但不建议继续使用和学习**
 
 
 ## 组件挂载时
